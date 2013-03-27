@@ -17,3 +17,8 @@ tool in bin/macosx:
 	sudo cp bin/macosx/vcprompt /usr/local/bin
 	
 	
+Put it all together and you get a prompt like this:
+
+![bash prompt screenshot](https://www.dropbox.com/s/uunh2paq41ze7x9/bash-prompt-screenshot.png "bash prompt screenshot (iTerm2)")ß
+	
+	
